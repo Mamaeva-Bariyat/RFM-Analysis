@@ -12,4 +12,6 @@ RFM-анализ используется для понимания и сегм�
 - OrderID- командa идентификатора
 - Location- местоположение
 # Распределение сегментов стоимости RFM
-![RFM Value Segment Distribution]()
+![RFM Value Segment Distribution](https://github.com/Mamaeva-Bariyat/RFM-Analysis/blob/main/images/RFM%20Value%20Segment%20Distribution.png)
+# Сегменты RFM-клиентов по ценности
+![RFM Customer Segments by Value](https://github.com/Mamaeva-Bariyat/RFM-Analysis/blob/main/images/RFM%20Customer%20Segments%20by%20Value.png)
